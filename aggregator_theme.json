@@ -1,10 +1,10 @@
 {
 	"strings": [{
 		"id": "onyo.aggregator.opsScreen.message",
-		"value": "Não encontramos nada digno de recomendar para você nas redondezas! \n Quem sabe tentando de novo?"
+		"message": "Não encontramos nada digno de recomendar para você nas redondezas! \n Quem sabe tentando de novo?"
 	}, {
 		"id": "commom.opsScreen.title",
-		"value": "Ops!"
+		"message": "Ops!"
 	}],
 	"colors": {
 		"primaryColor": "#004A35",
