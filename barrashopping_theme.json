@@ -1,11 +1,18 @@
 {
-	"strings": [{
-		"id": "onyo.aggregator.opsScreen.message",
-		"message": "Não encontramos nada digno de recomendar para você nas redondezas! \n Quem sabe tentando de novo?"
-	}, {
-		"id": "commom.opsScreen.title",
-		"message": "Ops!"
-	}],
+	"strings": [
+		{
+			"id": "onyo.aggregator.opsScreen.message",
+			"message": "Não encontramos nada digno de recomendar para você nas redondezas! \n Quem sabe tentando de novo?"
+		}, 
+		{
+			"id": "commom.opsScreen.title",
+			"message": "Ops!"
+		}, 
+		{
+			"id": "onyo.aggregator.toolbar.title",
+			"message": "Barra Shopping"
+		}
+	],
 	"colors": {
 		"primaryColor": "#004A35",
 		"darkPrimaryColor": "",
