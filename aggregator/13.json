@@ -208,6 +208,15 @@
 			}, {
 				"id": "receipt.total.points.withoutPrice",
 				"message": "[points] [points:ponto|pontos]"
+			}, {
+				"id": "productDetails.cartButton.add",
+				"message": "ADICIONAR"
+			}, {
+				"id": "productDetails.cartButton.edit",
+				"message": "ALTERAR"
+			}, {
+				"id": "productDetails.cartButton.missingPoints",
+				"message": "Faltam [points] [points:ponto|pontos]"
 			}],
 			"colors": {
 				"primaryColor": "#ec2f1f",
@@ -405,6 +414,15 @@
 			}, {
 				"id": "receipt.total.points.withoutPrice",
 				"message": "[points] [points:ponto|pontos]"
+			}, {
+				"id": "productDetails.cartButton.add",
+				"message": "ADICIONAR"
+			}, {
+				"id": "productDetails.cartButton.edit",
+				"message": "ALTERAR"
+			}, {
+				"id": "productDetails.cartButton.missingPoints",
+				"message": "Faltam [points] [points:ponto|pontos]"
 			}],
 			"colors": {
 				"primaryColor": "#182335",
