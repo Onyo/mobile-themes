@@ -19,7 +19,8 @@
 		"primaryTextColor": "#4A4A4A",
 		"secondaryTextColor": "#9B9B9B",
 		"lightBackgroundColor": "#F2F4F7",
-		"darkBackgroundColor": "#4A4A4A"
+		"darkBackgroundColor": "#4A4A4A",
+		"errorColor": "#EE7B7B"
 	},
 	"images": {},
 	"brands": [{
@@ -224,7 +225,8 @@
 				"highlightColor": "#FFFFFF",
 				"primaryTextColor": "#757575",
 				"secondaryTextColor": "#757575",
-				"lightBackgroundColor": "#F2F4F7"
+				"lightBackgroundColor": "#F2F4F7",
+				"errorColor": "#EE7B7B"
 			},
 			"images": {}
 		}
@@ -430,7 +432,8 @@
 				"highlightColor": "#F7AD4D",
 				"primaryTextColor": "#162235",
 				"secondaryTextColor": "#8992A7",
-				"lightBackgroundColor": "#F2F4F7"
+				"lightBackgroundColor": "#F2F4F7",
+				"errorColor": "#EE7B7B"
 			},
 			"images": {}
 		}
