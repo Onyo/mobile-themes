@@ -1,15 +1,15 @@
 {
 	"strings": [{
-		"id": "onyo.aggregator.toolbar.title",
+		"id": "onyo.mobile.theme.aggregator.toolbar.title",
 		"message": "Barra Shopping"
 	}, {
-		"id": "commom.opsScreen.title",
+		"id": "onyo.mobile.theme.commom.opsScreen.title",
 		"message": "Ops!"
 	}, {
-		"id": "onyo.aggregator.opsScreen.message",
+		"id": "onyo.mobile.theme.aggregator.opsScreen.message",
 		"message": "Não encontramos nada digno de recomendar para você nas redondezas! \n Quem sabe tentando de novo?"
 	}, {
-		"id": "commom.opsScreen.actionButton",
+		"id": "onyo.mobile.theme.commom.opsScreen.actionButton",
 		"message": "TENTAR NOVAMENTE"
 	}],
 	"colors": {
@@ -27,197 +27,197 @@
 		"numericalId": 1,
 		"theme": {
 			"strings": [{
-				"id": "common.opsScreen.title",
+				"id": "onyo.mobile.theme.common.opsScreen.title",
 				"message": "Ops!"
 			}, {
-				"id": "categoryList.title",
+				"id": "onyo.mobile.theme.categoryList.title",
 				"message": "CATEGORIAS"
 			}, {
-				"id": "categoryList.opsScreen.description",
+				"id": "onyo.mobile.theme.categoryList.opsScreen.description",
 				"message": "Não foi possível acessar o cardápio."
 			}, {
-				"id": "categoryList.opsScreen.button",
+				"id": "onyo.mobile.theme.categoryList.opsScreen.button",
 				"message": "TENTAR NOVAMENTE"
 			}, {
-				"id": "history.title",
+				"id": "onyo.mobile.theme.history.title",
 				"message": "HISTÓRICO"
 			}, {
-				"id": "history.emptyState.title",
+				"id": "onyo.mobile.theme.history.emptyState.title",
 				"message": "Seu histórico está vazio!"
 			}, {
-				"id": "history.emptyState.description",
+				"id": "onyo.mobile.theme.history.emptyState.description",
 				"message": "Parece que você não teve nenhuma atividade recente."
 			}, {
-				"id": "history.opsScreen.description",
+				"id": "onyo.mobile.theme.history.opsScreen.description",
 				"message": "Não conseguimos carregar seu histórico no momento."
 			}, {
-				"id": "history.opsScreen.button",
+				"id": "onyo.mobile.theme.history.opsScreen.button",
 				"message": "TENTAR NOVAMENTE"
 			}, {
-				"id": "history.item.common.displayCode",
+				"id": "onyo.mobile.theme.history.item.common.displayCode",
 				"message": " #[display_code]"
 			}, {
-				"id": "history.item.common.value.pricePoints",
+				"id": "onyo.mobile.theme.history.item.common.value.pricePoints",
 				"message": "[price] + [points] [points:ponto|pontos]"
 			}, {
-				"id": "history.item.common.value.pointsSpent",
+				"id": "onyo.mobile.theme.history.item.common.value.pointsSpent",
 				"message": "Você gastou [points] [points:ponto|pontos]"
 			}, {
-				"id": "history.item.common.value.pointsReturned",
+				"id": "onyo.mobile.theme.history.item.common.value.pointsReturned",
 				"message": "[wereReturned:Foi devolvido|Foram devolvidos] [points] [points:ponto|pontos]"
 			}, {
-				"id": "history.item.common.pointsReceived",
+				"id": "onyo.mobile.theme.history.item.common.pointsReceived",
 				"message": "Você ganhou [points] [points:ponto|pontos]"
 			}, {
-				"id": "history.item.common.balance",
+				"id": "onyo.mobile.theme.history.item.common.balance",
 				"message": "SALDO: [points] [points:PONTO|PONTOS]"
 			}, {
-				"id": "history.item.common.date.now",
+				"id": "onyo.mobile.theme.history.item.common.date.now",
 				"message": "agora"
 			}, {
-				"id": "history.item.common.date.seconds",
+				"id": "onyo.mobile.theme.history.item.common.date.seconds",
 				"message": "há [seconds] [seconds:segundo|segundos]"
 			}, {
-				"id": "history.item.common.date.minutes",
+				"id": "onyo.mobile.theme.history.item.common.date.minutes",
 				"message": "[minutes] [minutes:minuto|minutos] atrás"
 			}, {
-				"id": "history.item.common.date.hours",
+				"id": "onyo.mobile.theme.history.item.common.date.hours",
 				"message": "[hours] [hours:hora|horas] atrás"
 			}, {
-				"id": "history.item.common.date.yesterday",
+				"id": "onyo.mobile.theme.history.item.common.date.yesterday",
 				"message": "ontem"
 			}, {
-				"id": "history.item.order.title",
+				"id": "onyo.mobile.theme.history.item.order.title",
 				"message": "PEDIDO"
 			}, {
-				"id": "history.item.redeem.title",
+				"id": "onyo.mobile.theme.history.item.redeem.title",
 				"message": "RESGATE"
 			}, {
-				"id": "history.item.orderCanceled.title",
+				"id": "onyo.mobile.theme.history.item.orderCanceled.title",
 				"message": "PEDIDO CANCELADO"
 			}, {
-				"id": "history.item.redeemCanceled.title",
+				"id": "onyo.mobile.theme.history.item.redeemCanceled.title",
 				"message": "RESGATE CANCELADO"
 			}, {
-				"id": "history.item.pointsReceived.title",
+				"id": "onyo.mobile.theme.history.item.pointsReceived.title",
 				"message": "PONTUAÇÃO"
 			}, {
-				"id": "history.item.bonus.title",
+				"id": "onyo.mobile.theme.history.item.bonus.title",
 				"message": "BÔNUS"
 			}, {
-				"id": "history.item.rewardUpdated.title",
+				"id": "onyo.mobile.theme.history.item.rewardUpdated.title",
 				"message": "PONTUAÇÃO ATUALIZADA"
 			}, {
-				"id": "history.item.rewardUpdated.valueUpdated",
+				"id": "onyo.mobile.theme.history.item.rewardUpdated.valueUpdated",
 				"message": "Sua conta foi atualizada para [to_price]"
 			}, {
-				"id": "history.item.rewardUpdated.pointsDecreased",
+				"id": "onyo.mobile.theme.history.item.rewardUpdated.pointsDecreased",
 				"message": "Seu saldo reduziu em [points] [points:ponto|pontos]"
 			}, {
-				"id": "history.item.rewardUpdated.pointsIncreased",
+				"id": "onyo.mobile.theme.history.item.rewardUpdated.pointsIncreased",
 				"message": "Seu saldo aumentou em [points] [points:ponto|pontos]"
 			}, {
-				"id": "history.item.pointsExpired.title",
+				"id": "onyo.mobile.theme.history.item.pointsExpired.title",
 				"message": "PONTUAÇÃO EXPIRADA"
 			}, {
-				"id": "history.item.pointsExpired.description",
+				"id": "onyo.mobile.theme.history.item.pointsExpired.description",
 				"message": "Que pena! [points] [points:ponto|pontos] [expired:expirou|expiraram]."
 			}, {
-				"id": "history.item.feedback.title",
+				"id": "onyo.mobile.theme.history.item.feedback.title",
 				"message": "FEEDBACK"
 			}, {
-				"id": "home.loyaltyOpsScreen.description",
+				"id": "onyo.mobile.theme.home..loyaltyOpsScreen.description",
 				"message": "Não foi possível carregar nossos produtos, mas você ainda pode pontuar."
 			}, {
-				"id": "home.loyaltyOpsScreen.balance",
+				"id": "onyo.mobile.theme.home..loyaltyOpsScreen.balance",
 				"message": "Você tem: [points] [points:ponto|pontos]"
 			}, {
-				"id": "home.loyaltyOpsScreen.expiration",
+				"id": "onyo.mobile.theme.home..loyaltyOpsScreen.expiration",
 				"message": "[points] [points:ponto|pontos] [expires:expira|expiram] [date]"
 			}, {
-				"id": "home.loyaltyOpsScreen.expiration.today",
+				"id": "onyo.mobile.theme.home..loyaltyOpsScreen.expiration.today",
 				"message": "hoje"
 			}, {
-				"id": "home.loyaltyOpsScreen.expiration.tomorrow",
+				"id": "onyo.mobile.theme.home..loyaltyOpsScreen.expiration.tomorrow",
 				"message": "amanhã"
 			}, {
-				"id": "home.loyaltyOpsScreen.expiration.dayNumber",
+				"id": "onyo.mobile.theme.home..loyaltyOpsScreen.expiration.dayNumber",
 				"message": "em [days] [days:dia|dias]"
 			}, {
-				"id": "home.loyaltyOpsScreen.expiration.date",
+				"id": "onyo.mobile.theme.home..loyaltyOpsScreen.expiration.date",
 				"message": "em [date]"
 			}, {
-				"id": "home.loyaltyOpsScreen.claimPoints",
+				"id": "onyo.mobile.theme.home..loyaltyOpsScreen.claimPoints",
 				"message": "QUERO PONTUAR"
 			}, {
-				"id": "home.loyaltyOpsScreen.reloadDescription.order",
+				"id": "onyo.mobile.theme.home..loyaltyOpsScreen.reloadDescription.order",
 				"message": "Se quiser pedir tente recarregar os produtos."
 			}, {
-				"id": "home.loyaltyOpsScreen.reloadDescription.redeem",
+				"id": "onyo.mobile.theme.home..loyaltyOpsScreen.reloadDescription.redeem",
 				"message": "Se quiser resgatar tente recarregar os produtos."
 			}, {
-				"id": "home.loyaltyOpsScreen.reload",
+				"id": "onyo.mobile.theme.home..loyaltyOpsScreen.reload",
 				"message": "RECARREGAR"
 			}, {
-				"id": "home.opsScreen.description",
+				"id": "onyo.mobile.theme.home..opsScreen.description",
 				"message": "Desculpe, não conseguimos carregar nossos produtos no momento."
 			}, {
-				"id": "home.opsScreen.actionButton",
+				"id": "onyo.mobile.theme.home..opsScreen.actionButton",
 				"message": "TENTAR NOVAMENTE"
 			}, {
-				"id": "main.tabs.home",
+				"id": "onyo.mobile.theme.main..tabs.home",
 				"message": "HOME"
 			}, {
-				"id": "main.tabs.menu",
+				"id": "onyo.mobile.theme.main..tabs.menu",
 				"message": "CARDÁPIO"
 			}, {
-				"id": "main.tabs.orderCart",
+				"id": "onyo.mobile.theme.main..tabs.orderCart",
 				"message": "PEDIDO"
 			}, {
-				"id": "main.tabs.redeemCart",
+				"id": "onyo.mobile.theme.main..tabs.redeemCart",
 				"message": "RESGATE"
 			}, {
-				"id": "receipt.title.order",
-				"message": "PEDIDO CONFIRMADO"
-			}, {
-				"id": "receipt.title.redeem",
-				"message": "RESGATE CONFIRMADO"
-			}, {
-				"id": "receipt.topText.order",
-				"message": ""
-			}, {
-				"id": "receipt.topText.redeem",
-				"message": ""
-			}, {
-				"id": "receipt.displayCode.label.order",
-				"message": "Número do pedido"
-			}, {
-				"id": "receipt.displayCode.label.redeem",
-				"message": "Número do resgate"
-			}, {
-				"id": "receipt.displayCode.disclaimer",
-				"message": "Verifique o número acima no painel de senhas."
-			}, {
-				"id": "receipt.product.points",
-				"message": "[points]\n[points:ponto|pontos]"
-			}, {
-				"id": "receipt.total.label",
-				"message": "TOTAL"
-			}, {
-				"id": "receipt.total.points.withPrice",
-				"message": "+ [points] [points:ponto|pontos]"
-			}, {
-				"id": "receipt.total.points.withoutPrice",
-				"message": "[points] [points:ponto|pontos]"
-			}, {
-				"id": "productDetails.cartButton.add",
+				"id": "onyo.mobile.theme.productDetails..cartButton.add",
 				"message": "ADICIONAR"
 			}, {
-				"id": "productDetails.cartButton.edit",
+				"id": "onyo.mobile.theme.productDetails..cartButton.edit",
 				"message": "ALTERAR"
 			}, {
-				"id": "productDetails.cartButton.missingPoints",
+				"id": "onyo.mobile.theme.productDetails..cartButton.missingPoints",
 				"message": "Faltam [points] [points:ponto|pontos]"
+			}, {
+				"id": "onyo.mobile.theme.receipt..title.order",
+				"message": "PEDIDO CONFIRMADO"
+			}, {
+				"id": "onyo.mobile.theme.receipt..title.redeem",
+				"message": "RESGATE CONFIRMADO"
+			}, {
+				"id": "onyo.mobile.theme.receipt..topText.order",
+				"message": ""
+			}, {
+				"id": "onyo.mobile.theme.receipt..topText.redeem",
+				"message": ""
+			}, {
+				"id": "onyo.mobile.theme.receipt..displayCode.label.order",
+				"message": "Número do pedido"
+			}, {
+				"id": "onyo.mobile.theme.receipt..displayCode.label.redeem",
+				"message": "Número do resgate"
+			}, {
+				"id": "onyo.mobile.theme.receipt..displayCode.disclaimer",
+				"message": "Verifique o número acima no painel de senhas."
+			}, {
+				"id": "onyo.mobile.theme.receipt..product.points",
+				"message": "[points]\n[points:ponto|pontos]"
+			}, {
+				"id": "onyo.mobile.theme.receipt..total.label",
+				"message": "TOTAL"
+			}, {
+				"id": "onyo.mobile.theme.receipt..total.points.withPrice",
+				"message": "+ [points] [points:ponto|pontos]"
+			}, {
+				"id": "onyo.mobile.theme.receipt..total.points.withoutPrice",
+				"message": "[points] [points:ponto|pontos]"
 			}],
 			"colors": {
 				"primaryColor": "#ec2f1f",
@@ -237,194 +237,194 @@
 				"id": "common.opsScreen.title",
 				"message": "Ops!"
 			}, {
-				"id": "categoryList.title",
+				"id": "onyo.mobile.theme.categoryList..title",
 				"message": "CATEGORIAS"
 			}, {
-				"id": "categoryList.opsScreen.description",
+				"id": "onyo.mobile.theme.categoryList..opsScreen.description",
 				"message": "Não foi possível acessar o cardápio."
 			}, {
-				"id": "categoryList.opsScreen.button",
+				"id": "onyo.mobile.theme.categoryList..opsScreen.button",
 				"message": "TENTAR NOVAMENTE"
 			}, {
-				"id": "history.title",
+				"id": "onyo.mobile.theme.history.title",
 				"message": "HISTÓRICO"
 			}, {
-				"id": "history.emptyState.title",
+				"id": "onyo.mobile.theme.history.emptyState.title",
 				"message": "Seu histórico está vazio!"
 			}, {
-				"id": "history.emptyState.description",
+				"id": "onyo.mobile.theme.history.emptyState.description",
 				"message": "Parece que você não teve nenhuma atividade recente."
 			}, {
-				"id": "history.opsScreen.description",
+				"id": "onyo.mobile.theme.history.opsScreen.description",
 				"message": "Não conseguimos carregar seu histórico no momento."
 			}, {
-				"id": "history.opsScreen.button",
+				"id": "onyo.mobile.theme.history.opsScreen.button",
 				"message": "TENTAR NOVAMENTE"
 			}, {
-				"id": "history.item.common.displayCode",
+				"id": "onyo.mobile.theme.history.item.common.displayCode",
 				"message": " #[display_code]"
 			}, {
-				"id": "history.item.common.value.pricePoints",
+				"id": "onyo.mobile.theme.history.item.common.value.pricePoints",
 				"message": "[price] + [points] [points:ponto|pontos]"
 			}, {
-				"id": "history.item.common.value.pointsSpent",
+				"id": "onyo.mobile.theme.history.item.common.value.pointsSpent",
 				"message": "Você gastou [points] [points:ponto|pontos]"
 			}, {
-				"id": "history.item.common.value.pointsReturned",
+				"id": "onyo.mobile.theme.history.item.common.value.pointsReturned",
 				"message": "[wereReturned:Foi devolvido|Foram devolvidos] [points] [points:ponto|pontos]"
 			}, {
-				"id": "history.item.common.pointsReceived",
+				"id": "onyo.mobile.theme.history.item.common.pointsReceived",
 				"message": "Você ganhou [points] [points:ponto|pontos]"
 			}, {
-				"id": "history.item.common.balance",
+				"id": "onyo.mobile.theme.history.item.common.balance",
 				"message": "SALDO: [points] [points:PONTO|PONTOS]"
 			}, {
-				"id": "history.item.common.date.now",
+				"id": "onyo.mobile.theme.history.item.common.date.now",
 				"message": "agora"
 			}, {
-				"id": "history.item.common.date.seconds",
+				"id": "onyo.mobile.theme.history.item.common.date.seconds",
 				"message": "há [seconds] [seconds:segundo|segundos]"
 			}, {
-				"id": "history.item.common.date.minutes",
+				"id": "onyo.mobile.theme.history.item.common.date.minutes",
 				"message": "[minutes] [minutes:minuto|minutos] atrás"
 			}, {
-				"id": "history.item.common.date.hours",
+				"id": "onyo.mobile.theme.history.item.common.date.hours",
 				"message": "[hours] [hours:hora|horas] atrás"
 			}, {
-				"id": "history.item.common.date.yesterday",
+				"id": "onyo.mobile.theme.history.item.common.date.yesterday",
 				"message": "ontem"
 			}, {
-				"id": "history.item.order.title",
+				"id": "onyo.mobile.theme.history.item.order.title",
 				"message": "PEDIDO"
 			}, {
-				"id": "history.item.redeem.title",
+				"id": "onyo.mobile.theme.history.item.redeem.title",
 				"message": "RESGATE"
 			}, {
-				"id": "history.item.orderCanceled.title",
+				"id": "onyo.mobile.theme.history.item.orderCanceled.title",
 				"message": "PEDIDO CANCELADO"
 			}, {
-				"id": "history.item.redeemCanceled.title",
+				"id": "onyo.mobile.theme.history.item.redeemCanceled.title",
 				"message": "RESGATE CANCELADO"
 			}, {
-				"id": "history.item.pointsReceived.title",
+				"id": "onyo.mobile.theme.history.item.pointsReceived.title",
 				"message": "PONTUAÇÃO"
 			}, {
-				"id": "history.item.bonus.title",
+				"id": "onyo.mobile.theme.history.item.bonus.title",
 				"message": "BÔNUS"
 			}, {
-				"id": "history.item.rewardUpdated.title",
+				"id": "onyo.mobile.theme.history.item.rewardUpdated.title",
 				"message": "PONTUAÇÃO ATUALIZADA"
 			}, {
-				"id": "history.item.rewardUpdated.valueUpdated",
+				"id": "onyo.mobile.theme.history.item.rewardUpdated.valueUpdated",
 				"message": "Sua conta foi atualizada para [to_price]"
 			}, {
-				"id": "history.item.rewardUpdated.pointsDecreased",
+				"id": "onyo.mobile.theme.history.item.rewardUpdated.pointsDecreased",
 				"message": "Seu saldo reduziu em [points] [points:ponto|pontos]"
 			}, {
-				"id": "history.item.rewardUpdated.pointsIncreased",
+				"id": "onyo.mobile.theme.history.item.rewardUpdated.pointsIncreased",
 				"message": "Seu saldo aumentou em [points] [points:ponto|pontos]"
 			}, {
-				"id": "history.item.pointsExpired.title",
+				"id": "onyo.mobile.theme.history.item.pointsExpired.title",
 				"message": "PONTUAÇÃO EXPIRADA"
 			}, {
-				"id": "history.item.pointsExpired.description",
+				"id": "onyo.mobile.theme.history.item.pointsExpired.description",
 				"message": "Que pena! [points] [points:ponto|pontos] [expired:expirou|expiraram]."
 			}, {
-				"id": "history.item.feedback.title",
+				"id": "onyo.mobile.theme.history.item.feedback.title",
 				"message": "FEEDBACK"
 			}, {
-				"id": "home.loyaltyOpsScreen.description",
+				"id": "onyo.mobile.theme.home..loyaltyOpsScreen.description",
 				"message": "Não foi possível carregar nossos produtos, mas você ainda pode pontuar."
 			}, {
-				"id": "home.loyaltyOpsScreen.balance",
+				"id": "onyo.mobile.theme.home..loyaltyOpsScreen.balance",
 				"message": "Você tem: [points] [points:ponto|pontos]"
 			}, {
-				"id": "home.loyaltyOpsScreen.expiration",
+				"id": "onyo.mobile.theme.home..loyaltyOpsScreen.expiration",
 				"message": "[points] [points:ponto|pontos] [expires:expira|expiram] [date]"
 			}, {
-				"id": "home.loyaltyOpsScreen.expiration.today",
+				"id": "onyo.mobile.theme.home..loyaltyOpsScreen.expiration.today",
 				"message": "hoje"
 			}, {
-				"id": "home.loyaltyOpsScreen.expiration.tomorrow",
+				"id": "onyo.mobile.theme.home..loyaltyOpsScreen.expiration.tomorrow",
 				"message": "amanhã"
 			}, {
-				"id": "home.loyaltyOpsScreen.expiration.dayNumber",
+				"id": "onyo.mobile.theme.home..loyaltyOpsScreen.expiration.dayNumber",
 				"message": "em [days] [days:dia|dias]"
 			}, {
-				"id": "home.loyaltyOpsScreen.expiration.date",
+				"id": "onyo.mobile.theme.home..loyaltyOpsScreen.expiration.date",
 				"message": "em [date]"
 			}, {
-				"id": "home.loyaltyOpsScreen.claimPoints",
+				"id": "onyo.mobile.theme.home..loyaltyOpsScreen.claimPoints",
 				"message": "QUERO PONTUAR"
 			}, {
-				"id": "home.loyaltyOpsScreen.reloadDescription.order",
+				"id": "onyo.mobile.theme.home..loyaltyOpsScreen.reloadDescription.order",
 				"message": "Se quiser pedir tente recarregar os produtos."
 			}, {
-				"id": "home.loyaltyOpsScreen.reloadDescription.redeem",
+				"id": "onyo.mobile.theme.home..loyaltyOpsScreen.reloadDescription.redeem",
 				"message": "Se quiser resgatar tente recarregar os produtos."
 			}, {
-				"id": "home.loyaltyOpsScreen.reload",
+				"id": "onyo.mobile.theme.home..loyaltyOpsScreen.reload",
 				"message": "RECARREGAR"
 			}, {
-				"id": "home.opsScreen.description",
+				"id": "onyo.mobile.theme.home..opsScreen.description",
 				"message": "Desculpe, não conseguimos carregar nossos produtos no momento."
 			}, {
-				"id": "home.opsScreen.actionButton",
+				"id": "onyo.mobile.theme.home..opsScreen.actionButton",
 				"message": "TENTAR NOVAMENTE"
 			}, {
-				"id": "main.tabs.home",
+				"id": "onyo.mobile.theme.main..tabs.home",
 				"message": "HOME"
 			}, {
-				"id": "main.tabs.menu",
+				"id": "onyo.mobile.theme.main..tabs.menu",
 				"message": "CARDÁPIO"
 			}, {
-				"id": "main.tabs.orderCart",
+				"id": "onyo.mobile.theme.main..tabs.orderCart",
 				"message": "PEDIDO"
 			}, {
-				"id": "main.tabs.redeemCart",
+				"id": "onyo.mobile.theme.main..tabs.redeemCart",
 				"message": "RESGATE"
 			}, {
-				"id": "receipt.title.order",
-				"message": "PEDIDO CONFIRMADO"
-			}, {
-				"id": "receipt.title.redeem",
-				"message": "RESGATE CONFIRMADO"
-			}, {
-				"id": "receipt.topText.order",
-				"message": "Agora conclua seu pedido na [company_name] informando seu CPF."
-			}, {
-				"id": "receipt.topText.redeem",
-				"message": "Agora conclua seu resgate na [company_name] informando seu CPF."
-			}, {
-				"id": "receipt.displayCode.label.order",
-				"message": "Número do pedido"
-			}, {
-				"id": "receipt.displayCode.label.redeem",
-				"message": "Número do resgate"
-			}, {
-				"id": "receipt.displayCode.disclaimer",
-				"message": "Verifique o número acima no painel de senhas."
-			}, {
-				"id": "receipt.product.points",
-				"message": "[points]\n[points:ponto|pontos]"
-			}, {
-				"id": "receipt.total.label",
-				"message": "TOTAL"
-			}, {
-				"id": "receipt.total.points.withPrice",
-				"message": "+ [points] [points:ponto|pontos]"
-			}, {
-				"id": "receipt.total.points.withoutPrice",
-				"message": "[points] [points:ponto|pontos]"
-			}, {
-				"id": "productDetails.cartButton.add",
+				"id": "onyo.mobile.theme.productDetails..cartButton.add",
 				"message": "ADICIONAR"
 			}, {
-				"id": "productDetails.cartButton.edit",
+				"id": "onyo.mobile.theme.productDetails..cartButton.edit",
 				"message": "ALTERAR"
 			}, {
-				"id": "productDetails.cartButton.missingPoints",
+				"id": "onyo.mobile.theme.productDetails..cartButton.missingPoints",
 				"message": "Faltam [points] [points:ponto|pontos]"
+			}, {
+				"id": "onyo.mobile.theme.receipt..title.order",
+				"message": "PEDIDO CONFIRMADO"
+			}, {
+				"id": "onyo.mobile.theme.receipt..title.redeem",
+				"message": "RESGATE CONFIRMADO"
+			}, {
+				"id": "onyo.mobile.theme.receipt..topText.order",
+				"message": "Agora conclua seu pedido na [company_name] informando seu CPF."
+			}, {
+				"id": "onyo.mobile.theme.receipt..topText.redeem",
+				"message": "Agora conclua seu resgate na [company_name] informando seu CPF."
+			}, {
+				"id": "onyo.mobile.theme.receipt..displayCode.label.order",
+				"message": "Número do pedido"
+			}, {
+				"id": "onyo.mobile.theme.receipt..displayCode.label.redeem",
+				"message": "Número do resgate"
+			}, {
+				"id": "onyo.mobile.theme.receipt..displayCode.disclaimer",
+				"message": "Verifique o número acima no painel de senhas."
+			}, {
+				"id": "onyo.mobile.theme.receipt..product.points",
+				"message": "[points]\n[points:ponto|pontos]"
+			}, {
+				"id": "onyo.mobile.theme.receipt..total.label",
+				"message": "TOTAL"
+			}, {
+				"id": "onyo.mobile.theme.receipt..total.points.withPrice",
+				"message": "+ [points] [points:ponto|pontos]"
+			}, {
+				"id": "onyo.mobile.theme.receipt..total.points.withoutPrice",
+				"message": "[points] [points:ponto|pontos]"
 			}],
 			"colors": {
 				"primaryColor": "#182335",
