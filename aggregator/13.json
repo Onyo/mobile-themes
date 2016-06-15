@@ -163,7 +163,7 @@
 				"message": "Se quiser resgatar tente recarregar os produtos."
 			}, {
 				"id": "onyo.mobile.theme.home.missing-points-for-next-redeemables",
-				"message": "+[missing_points] [points:ponto|pontos] para poder resgatar [products:produto|produtos]"
+				"message": "+[points] [points:ponto|pontos] para poder resgatar [products:produto|produtos]"
 			}, {
 				"id": "onyo.mobile.theme.home.loyaltyOpsScreen.reload",
 				"message": "RECARREGAR"
@@ -379,7 +379,7 @@
 				"message": "Olá, [user_name]!"
 			}, {
 				"id": "onyo.mobile.theme.home.missing-points-for-next-redeemables",
-				"message": "+[missing_points] [points:ponto|pontos] para poder resgatar [products:produto|produtos]"
+				"message": "+[points] [points:ponto|pontos] para poder resgatar [products:produto|produtos]"
 			}, {
 				"id": "onyo.mobile.theme.home.all-products-redeemable",
 				"message": "Escolha o resgatável que quiser!"
