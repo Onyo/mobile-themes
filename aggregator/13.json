@@ -30,6 +30,9 @@
 				"id": "onyo.mobile.theme.common.opsScreen.title",
 				"message": "Ops!"
 			}, {
+				"id": "onyo.mobile.theme.common.points",
+				"message": "[points:ponto|pontos]"
+			},{
 				"id": "onyo.mobile.theme.categoryList.title",
 				"message": "CATEGORIAS"
 			}, {
@@ -245,6 +248,9 @@
 			"strings": [{
 				"id": "common.opsScreen.title",
 				"message": "Ops!"
+			}, {
+				"id": "onyo.mobile.theme.common.points",
+				"message": "[points:ponto|pontos]"
 			}, {
 				"id": "onyo.mobile.theme.categoryList.title",
 				"message": "CATEGORIAS"
