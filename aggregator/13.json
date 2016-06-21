@@ -243,8 +243,8 @@
 				"highlightTextColor": "#ec2f1f",
 				"lightBackgroundColor": "#F2F4F7",
 				"errorColor": "#EE7B7B",
-				"progressColor": "#0f6952",
-				"trackColor": "#0f6952"
+				"progressColor": "#ec2f1f",
+				"trackColor": "#757575"
 			},
 			"images": {}
 		}
@@ -465,8 +465,8 @@
 				"highlightTextColor": "#8992A7",
 				"lightBackgroundColor": "#F2F4F7",
 				"errorColor": "#EE7B7B",
-				"progressColor": "#0f6952",
-				"trackColor": "#0f6952"
+				"progressColor": "#f8b657",
+				"trackColor": "#474f61"
 			},
 			"images": {}
 		}
