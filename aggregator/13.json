@@ -20,6 +20,7 @@
 		"secondaryTextColor": "#9B9B9B",
 		"highlightTextColor": "#0f6952",
 		"lightBackgroundColor": "#F2F4F7",
+		"mediumBackgroundColor": "#e1e1e1",
 		"darkBackgroundColor": "#4A4A4A",
 		"errorColor": "#EE7B7B",
 		"progressColor": "#0f6952",
@@ -241,6 +242,8 @@
 				"primaryTextColor": "#757575",
 				"highlightTextColor": "#ec2f1f",
 				"lightBackgroundColor": "#F2F4F7",
+				"mediumBackgroundColor": "#e1e1e1",
+				"darkBackgroundColor": "#4A4A4A",
 				"errorColor": "#EE7B7B",
 				"progressColor": "#ec2f1f",
 				"trackColor": "#757575"
@@ -462,6 +465,8 @@
 				"primaryTextColor": "#757575",
 				"highlightTextColor": "#44a1c4",
 				"lightBackgroundColor": "#F2F4F7",
+				"mediumBackgroundColor": "#e1e1e1",
+				"darkBackgroundColor": "#e1e1e1",
 				"errorColor": "#EE7B7B",
 				"progressColor": "#F7AD4D",
 				"trackColor": "#182335"
