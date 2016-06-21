@@ -18,9 +18,12 @@
 		"highlightColor": "#0f6952",
 		"primaryTextColor": "#4A4A4A",
 		"secondaryTextColor": "#9B9B9B",
+		"highlightTextColor": "#0f6952",
 		"lightBackgroundColor": "#F2F4F7",
 		"darkBackgroundColor": "#4A4A4A",
-		"errorColor": "#EE7B7B"
+		"errorColor": "#EE7B7B",
+		"progressColor": "#0f6952",
+		"trackColor": "#0f6952"
 	},
 	"images": {},
 	"brands": [{
@@ -32,7 +35,7 @@
 			}, {
 				"id": "onyo.mobile.theme.common.points",
 				"message": "[points:ponto|pontos]"
-			},{
+			}, {
 				"id": "onyo.mobile.theme.categoryList.title",
 				"message": "CATEGORIAS"
 			}, {
@@ -237,8 +240,11 @@
 				"highlightColor": "#FFFFFF",
 				"primaryTextColor": "#757575",
 				"secondaryTextColor": "#757575",
+				"highlightTextColor": "#ec2f1f",
 				"lightBackgroundColor": "#F2F4F7",
-				"errorColor": "#EE7B7B"
+				"errorColor": "#EE7B7B",
+				"progressColor": "#0f6952",
+				"trackColor": "#0f6952"
 			},
 			"images": {}
 		}
@@ -389,7 +395,7 @@
 			}, {
 				"id": "onyo.mobile.theme.home.all-products-redeemable",
 				"message": "Escolha o resgatável que quiser!"
-			},{
+			}, {
 				"id": "onyo.mobile.theme.home.opsScreen.description",
 				"message": "Desculpe, não conseguimos carregar nossos produtos no momento."
 			}, {
@@ -456,8 +462,11 @@
 				"highlightColor": "#F7AD4D",
 				"primaryTextColor": "#162235",
 				"secondaryTextColor": "#8992A7",
+				"highlightTextColor": "#8992A7",
 				"lightBackgroundColor": "#F2F4F7",
-				"errorColor": "#EE7B7B"
+				"errorColor": "#EE7B7B",
+				"progressColor": "#0f6952",
+				"trackColor": "#0f6952"
 			},
 			"images": {}
 		}
