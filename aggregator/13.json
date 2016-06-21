@@ -46,6 +46,9 @@
 				"id": "onyo.mobile.theme.categoryList.opsScreen.button",
 				"message": "TENTAR NOVAMENTE"
 			}, {
+				"id": "onyo.mobile.theme.home.widgets.empty",
+				"message": "Desculpe, não conseguimos carregar os produtos no momento."
+			}, {
 				"id": "onyo.mobile.theme.history.title",
 				"message": "HISTÓRICO"
 			}, {
@@ -268,6 +271,9 @@
 			}, {
 				"id": "onyo.mobile.theme.categoryList.opsScreen.button",
 				"message": "TENTAR NOVAMENTE"
+			}, {
+				"id": "onyo.mobile.theme.home.widgets.empty",
+				"message": "Desculpe, não conseguimos carregar os produtos no momento."
 			}, {
 				"id": "onyo.mobile.theme.history.title",
 				"message": "HISTÓRICO"
