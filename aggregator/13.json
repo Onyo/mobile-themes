@@ -61,6 +61,18 @@
 			    	"id": "onyo.mobile.theme.cart.checkout.order", 
 			    	"message": "CONFIRMAR PEDIDO" 
 			}, {
+			    	"id": "onyo.mobile.theme.cart.emptyState.firstLine.order", 
+			    	"message": "OPS! VOCÊ NÃO ADICIONOU NENHUM ITEM AO SEU PEDIDO AINDA =(" 
+			}, {
+			    	"id": "onyo.mobile.theme.cart.emptyState.firstLine.redeem", 
+			    	"message": "OPS! VOCÊ NÃO ADICIONOU NENHUM ITEM AO SEU RESGATE AINDA =(" 
+			}, {
+			    	"id": "onyo.mobile.theme.cart.emptyState.secondLine.order", 
+			    	"message": "Vá ao cardápio e comece a resgatar produtos agora!" 
+			}, {
+			    	"id": "onyo.mobile.theme.cart.emptyState.secondLine.redeem", 
+			    	"message": "Vá ao cardápio e comece a adicionar produtos agora!" 
+			}, {
 				"id": "onyo.mobile.theme.categoryList.title",
 				"message": "CATEGORIAS"
 			}, {
@@ -325,6 +337,18 @@
 			}, {
 			    	"id": "onyo.mobile.theme.cart.checkout.order", 
 			    	"message": "CONFIRMAR PEDIDO" 
+			}, {
+			    	"id": "onyo.mobile.theme.cart.emptyState.firstLine.order", 
+			    	"message": "OPS! VOCÊ NÃO ADICIONOU NENHUM ITEM AO SEU PEDIDO AINDA =(" 
+			}, {
+			    	"id": "onyo.mobile.theme.cart.emptyState.firstLine.redeem", 
+			    	"message": "OPS! VOCÊ NÃO ADICIONOU NENHUM ITEM AO SEU RESGATE AINDA =(" 
+			}, {
+			    	"id": "onyo.mobile.theme.cart.emptyState.secondLine.order", 
+			    	"message": "Vá ao cardápio e comece a resgatar produtos agora!" 
+			}, {
+			    	"id": "onyo.mobile.theme.cart.emptyState.secondLine.redeem", 
+			    	"message": "Vá ao cardápio e comece a adicionar produtos agora!" 
 			}, {
 				"id": "onyo.mobile.theme.categoryList.title",
 				"message": "CATEGORIAS"
