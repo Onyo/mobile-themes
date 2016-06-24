@@ -49,10 +49,10 @@
 				"id": "onyo.mobile.theme.common.points",
 				"message": "[points:ponto|pontos]"
 			}, {
-				"id": "onyo.mobile.theme.cart.order", 
+				"id": "onyo.mobile.theme.cart.header.order", 
 				"message": "MEU PEDIDO" 
 			}, {
-			    	"id": "onyo.mobile.theme.cart.redeem", 
+			    	"id": "onyo.mobile.theme.cart.header.redeem", 
 				"message": "MEU RESGATE" 
 			}, {
 			    	"id": "onyo.mobile.theme.cart.checkout.redeem", 
@@ -326,10 +326,10 @@
 				"id": "onyo.mobile.theme.common.points",
 				"message": "[points:ponto|pontos]"
 			}, {
-				"id": "onyo.mobile.theme.cart.order", 
+				"id": "onyo.mobile.theme.cart.header.order", 
 				"message": "MEU PEDIDO" 
 			}, {
-			    	"id": "onyo.mobile.theme.cart.redeem", 
+			    	"id": "onyo.mobile.theme.cart.header.redeem", 
 				"message": "MEU RESGATE" 
 			},  {
 			    	"id": "onyo.mobile.theme.cart.checkout.redeem", 
