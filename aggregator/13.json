@@ -49,11 +49,17 @@
 				"id": "onyo.mobile.theme.common.points",
 				"message": "[points:ponto|pontos]"
 			}, {
+				"id": "onyo.mobile.theme.cart.order", 
+				"message": "MEU PEDIDO" 
+			}, {
 			    	"id": "onyo.mobile.theme.cart.redeem", 
 				"message": "MEU RESGATE" 
 			}, {
-				"id": "onyo.mobile.theme.cart.order", 
-				"message": "MEU PEDIDO" 
+			    	"id": "onyo.mobile.theme.cart.start-redeem", 
+			    	"message": "CONFIRMAR RESGATE" 
+			}, {
+			    	"id": "onyo.mobile.theme.cart.start-order", 
+			    	"message": "CONFIRMAR PEDIDO" 
 			}, {
 				"id": "onyo.mobile.theme.categoryList.title",
 				"message": "CATEGORIAS"
@@ -308,11 +314,17 @@
 				"id": "onyo.mobile.theme.common.points",
 				"message": "[points:ponto|pontos]"
 			}, {
-			    	"id": "onyo.mobile.theme.cart.redeem", 
-				"message": "MEU RESGATE" 
-			}, {
 				"id": "onyo.mobile.theme.cart.order", 
 				"message": "MEU PEDIDO" 
+			}, {
+			    	"id": "onyo.mobile.theme.cart.redeem", 
+				"message": "MEU RESGATE" 
+			},  {
+			    	"id": "onyo.mobile.theme.cart.start-redeem", 
+			    	"message": "CONFIRMAR RESGATE" 
+			}, {
+			    	"id": "onyo.mobile.theme.cart.start-order", 
+			    	"message": "CONFIRMAR PEDIDO" 
 			}, {
 				"id": "onyo.mobile.theme.categoryList.title",
 				"message": "CATEGORIAS"
