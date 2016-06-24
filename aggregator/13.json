@@ -31,6 +31,18 @@
 		"numericalId": 1,
 		"theme": {
 			"strings": [{
+				"id": "onyo.mobile.theme.aboutOnyo.emailAddress", 
+				"message": "contact@onyo.com" 
+			}, {
+				"id": "onyo.mobile.theme.aboutOnyo.termsText", 
+				"message": "Conheça os Termos de Uso da Onyo" 
+			}, {
+				"id": "onyo.mobile.theme.aboutOnyo.termsLink", 
+				"message": "Termos de Uso da Onyo" 
+			}, {
+				"id": "onyo.mobile.theme.aboutOnyo.title", 
+				"message": "The consumer experience will never be the same again..." 
+			}, {
 				"id": "onyo.mobile.theme.common.opsScreen.title",
 				"message": "Ops!"
 			}, {
@@ -237,6 +249,21 @@
 			}, {
 				"id": "onyo.mobile.theme.receipt.total.points.withoutPrice",
 				"message": "[points] [points:ponto|pontos]"
+			}, {
+			    	"id": "onyo.mobile.theme.sideMenu.myAccount", 
+			    	"message": "Minha Conta" 
+			},{
+			    	"id": "onyo.mobile.theme.sideMenu.history", 
+			    	"message": "Histórico" 
+			}, {
+			    	"id": "onyo.mobile.theme.sideMenu.paymentMethods", 
+			    	"message": "Meus Modos de Pagamento" 
+			}, {
+			    	"id": "onyo.mobile.theme.sideMenu.aboutOnyo", 
+			    	"message": "Sobre a Onyo" 
+			}, {
+			    	"id": "onyo.mobile.theme.sideMenu.signOut", 
+			    	"message": "Sair" 
 			}],
 			"colors": {
 				"primaryColor": "#ec2f1f",
@@ -257,6 +284,18 @@
 		"numericalId": 3,
 		"theme": {
 			"strings": [{
+				"id": "onyo.mobile.theme.aboutOnyo.emailAddress", 
+				"message": "contact@onyo.com" 
+			}, {
+				"id": "onyo.mobile.theme.aboutOnyo.termsText", 
+				"message": "Conheça os Termos de Uso da Onyo" 
+			}, {
+				"id": "onyo.mobile.theme.aboutOnyo.termsLink", 
+				"message": "Termos de Uso da Onyo" 
+			}, {
+				"id": "onyo.mobile.theme.aboutOnyo.title", 
+				"message": "The consumer experience will never be the same again..." 
+			}, {
 				"id": "common.opsScreen.title",
 				"message": "Ops!"
 			}, {
@@ -463,6 +502,21 @@
 			}, {
 				"id": "onyo.mobile.theme.receipt.total.points.withoutPrice",
 				"message": "[points] [points:ponto|pontos]"
+			}, {
+			    	"id": "onyo.mobile.theme.sideMenu.myAccount", 
+			    	"message": "Minha Conta" 
+			},{
+			    	"id": "onyo.mobile.theme.sideMenu.history", 
+			    	"message": "Histórico" 
+			}, {
+			    	"id": "onyo.mobile.theme.sideMenu.paymentMethods", 
+			    	"message": "Meus Modos de Pagamento" 
+			}, {
+			    	"id": "onyo.mobile.theme.sideMenu.aboutOnyo", 
+			    	"message": "Sobre a Onyo" 
+			}, {
+			    	"id": "onyo.mobile.theme.sideMenu.signOut", 
+			    	"message": "Sair" 
 			}],
 			"colors": {
 				"primaryColor": "#182335",
