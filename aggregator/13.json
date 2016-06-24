@@ -55,10 +55,10 @@
 			    	"id": "onyo.mobile.theme.cart.redeem", 
 				"message": "MEU RESGATE" 
 			}, {
-			    	"id": "onyo.mobile.theme.cart.start-redeem", 
+			    	"id": "onyo.mobile.theme.cart.checkout.redeem", 
 			    	"message": "CONFIRMAR RESGATE" 
 			}, {
-			    	"id": "onyo.mobile.theme.cart.start-order", 
+			    	"id": "onyo.mobile.theme.cart.checkout.order", 
 			    	"message": "CONFIRMAR PEDIDO" 
 			}, {
 				"id": "onyo.mobile.theme.categoryList.title",
@@ -320,10 +320,10 @@
 			    	"id": "onyo.mobile.theme.cart.redeem", 
 				"message": "MEU RESGATE" 
 			},  {
-			    	"id": "onyo.mobile.theme.cart.start-redeem", 
+			    	"id": "onyo.mobile.theme.cart.checkout.redeem", 
 			    	"message": "CONFIRMAR RESGATE" 
 			}, {
-			    	"id": "onyo.mobile.theme.cart.start-order", 
+			    	"id": "onyo.mobile.theme.cart.checkout.order", 
 			    	"message": "CONFIRMAR PEDIDO" 
 			}, {
 				"id": "onyo.mobile.theme.categoryList.title",
